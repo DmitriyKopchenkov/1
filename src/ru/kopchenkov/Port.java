@@ -1,4 +1,4 @@
-package ru.feduncov;
+package ru.kopchenkov;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -11,6 +11,7 @@ public class Port {
     private final List<List<Integer>> decryptedArray = new ArrayList<>();
 
     public Port(String[] array) {
+
         this.array = array;
     }
 

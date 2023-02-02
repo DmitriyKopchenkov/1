@@ -1,4 +1,4 @@
-package ru.feduncov;
+package ru.kopchenkov;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
